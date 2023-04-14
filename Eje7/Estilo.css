@@ -1,0 +1,11 @@
+@import url(../EstiloIni.css);
+.titulounic{
+    color: red;
+    font-family: Arial;
+    font-size: 60px;
+}
+.parrafounic{
+    color: orangered;
+    text-align: justify;
+    line-height: 3;
+}

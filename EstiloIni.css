@@ -14,7 +14,9 @@ h1.Ini{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 2px;
 }
+/*cambio de pagina*/
 .Cambio{
     float: right;
     margin-top: 0;
